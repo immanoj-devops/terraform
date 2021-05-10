@@ -8,7 +8,7 @@ output name {
 }
 
 output names {
-  value       = "The World Statement is ${var.TEST}"
+  value       = "The World Statement is {var.TEST}"
 }
 
 
