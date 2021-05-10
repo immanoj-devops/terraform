@@ -3,7 +3,7 @@ variable TEST {
 }
 
 output name {
-  value       = var.TEST
+  value       = var
 
 }
 
