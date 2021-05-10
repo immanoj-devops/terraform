@@ -11,7 +11,7 @@ terraform {
   }
 }
 
-module "local-mod" {
+module "local-modu" {
   source = "./local-mod"
 }
 
