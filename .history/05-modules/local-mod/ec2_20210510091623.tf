@@ -6,7 +6,7 @@ resource "aws_instance" "localmod-web1" {
 
 
 output PubIP {
-  value       = "z"
+  value       = ""
 
 }
 
