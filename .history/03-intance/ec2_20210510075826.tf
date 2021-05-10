@@ -5,7 +5,7 @@ provider "aws" {
 terraform {
   backend "s3" {
     bucket = "terrafrom-learning-bucket"
-    key    = "dev/terraform.tfstate"
+    key    = "dev/terraform.tf"
     region = "us-east-1"
   }
 }
