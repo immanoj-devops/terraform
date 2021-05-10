@@ -4,7 +4,7 @@ provider "aws" {
 
 terraform {
   backend "s3" {
-    bucket = "terrafrom-learning-bucket"
+    bucket = "errafrom-learning-bucket"
     key    = "path/to/my/key"
     region = "us-east-1"
   }
