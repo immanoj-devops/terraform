@@ -7,6 +7,8 @@ resource "aws_instance" "localmod-web1" {
 
 output name {
   value       = ""
-
+  sensitive   = true
+  description = "description"
+  depends_on  = []
 }
 
