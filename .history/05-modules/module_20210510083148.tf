@@ -11,7 +11,7 @@ terraform {
   }
 }
 
-module "local-module" {
+module "local-mod" {
   source = "./consul"
 }
 
