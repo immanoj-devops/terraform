@@ -9,4 +9,4 @@ resource "aws_instance" "web" {
 }
 
 
-output "web"
+output ""
