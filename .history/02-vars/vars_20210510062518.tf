@@ -13,7 +13,7 @@ output names {
 
 
 output name {
-  value       = "var."
-}
+  value       = ""
+
 
 
