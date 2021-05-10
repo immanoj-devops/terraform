@@ -5,4 +5,3 @@ resource "aws_instance" "localmod-web1" {
 }
 
 
-
