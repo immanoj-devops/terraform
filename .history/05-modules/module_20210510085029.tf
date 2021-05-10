@@ -17,6 +17,6 @@ module "local-module" {
 
 module "loca1-mod" {
   source = "./local1-mod"
-  Public_IP =
+  Public
 }
 
