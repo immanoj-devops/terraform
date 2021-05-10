@@ -13,7 +13,6 @@ output name {
 
 
 variable "Tester-Name" {}
-
 output name {
   value       = "Printing this variable from tfvars file ${var.Tester-Name}"
 }

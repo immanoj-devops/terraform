@@ -7,13 +7,12 @@ output name {
 
 }
 
-output name {
+output names {
   value       = "The World Statement is ${var.TEST}"
 }
 
 
 variable "Tester-Name" {}
-
 output name {
   value       = "Printing this variable from tfvars file ${var.Tester-Name}"
 }
