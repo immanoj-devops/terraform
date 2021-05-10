@@ -12,7 +12,7 @@ output names {
 }
 
 
-variable 
+variable
 output name {
   value       = "var.Tester-Name"
 }
