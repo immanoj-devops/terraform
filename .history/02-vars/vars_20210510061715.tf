@@ -1,4 +1,4 @@
-variable TEST {
+variableTEST {
 
   default     = ""
 
