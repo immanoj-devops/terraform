@@ -15,7 +15,7 @@ module "local-module" {
   source = "./local-mod"
 }
 
-module "locq" {
+module "lcoal1" {
   source = "./local-mod"
 }
 
