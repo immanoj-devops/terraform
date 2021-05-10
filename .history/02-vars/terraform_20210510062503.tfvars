@@ -1,3 +1,3 @@
 variable "Tester-Name" {
-    default = "Sree"
+    default = "S"
 }
