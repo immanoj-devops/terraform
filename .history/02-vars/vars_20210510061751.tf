@@ -7,5 +7,5 @@ output name {
 
 }
 
-ou
+output
 
