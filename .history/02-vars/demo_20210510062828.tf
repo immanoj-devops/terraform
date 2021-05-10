@@ -15,7 +15,7 @@ output name {
 variable "CITY" {}
 
 output name {
-  value       = "City Name is ${var.CITY}"
+  value       = "City Name is "
 }
 
 
