@@ -9,6 +9,6 @@ output name {
 
 output name {
   value       = ""
-}
+
 
 

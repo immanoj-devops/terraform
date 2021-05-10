@@ -7,8 +7,5 @@ output name {
 
 }
 
-output name {
-  value       = ""
-}
-
+output
 
