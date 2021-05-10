@@ -2,13 +2,7 @@ provider "aws" {
     region      =       "us-east-1"
 }
 
-terraform {
-  backend "s3" {
-    bucket = "mybucket"
-    key    = "path/to/my/key"
-    region = "us-east-1"
-  }
-}
+
 
 resource "aws_instance" "web" {
   ami           = "ami-079a3f3cf00741286"
