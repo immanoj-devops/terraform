@@ -10,5 +10,5 @@ resource "aws_instance" "web" {
 
 
 output "webIp" {
-    value       =       "web."
+    value       =       "web"
 }
