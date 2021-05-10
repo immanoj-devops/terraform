@@ -1,7 +1,7 @@
 resource "null_resource" sample {
    
    provisioner "local-exec" {
-     command = "echo ${var.PUBLIC_IP}"
+     command = "echo ${var.Public_IP}"
   }
 }
 
