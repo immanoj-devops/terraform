@@ -6,6 +6,6 @@ resource "aws_instance" "localmod-web1" {
 
 
 output PubIP {
-  value       = "aws_instance.localmod-web1.public_ip"
+  value       = "aws_instance.localmod-web1.p"
 }
 
