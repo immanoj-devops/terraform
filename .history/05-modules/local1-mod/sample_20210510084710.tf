@@ -6,7 +6,7 @@ resource "null_resource" sample {
 }
 
 
-variable "Public_IP" {}
-
+variable "Public_IP" 
+}
 
  

@@ -7,6 +7,6 @@ resource "null_resource" sample {
 
 
 variable "Public_IP" {}
-
+}
 
  
