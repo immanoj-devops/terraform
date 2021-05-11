@@ -11,13 +11,13 @@ terraform {
   }
 }
 
-module "local1" {
+module "local-mod" {
   source = "./local1-mod"
 }
 
-module "local2" {
-  source = "./local2-mod"
-  PUBLIC_IP = "module.local1-mod.PUBLIC_IP"
+module "local1-mod" {
+  source = "./local-mod"
+  PUBLIC_IP = "module.local-mod.PUBLIC_IP"
 }
 
 
