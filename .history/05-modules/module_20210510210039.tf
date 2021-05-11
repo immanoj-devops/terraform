@@ -17,7 +17,7 @@ module "local1" {
 
 module "local2" {
   source = "./local2-mod"
-  PUBLIC_IP = "module.local1-mod.PUBLIC_IP"
+  PUBLIC_IP = "module.local1-mod.PUBLIC_IP
 }
 
 
