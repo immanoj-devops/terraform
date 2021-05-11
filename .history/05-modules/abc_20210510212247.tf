@@ -1,1 +1,0 @@
-rosource "aws_instance"

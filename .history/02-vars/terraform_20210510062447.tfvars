@@ -1,3 +1,0 @@
-variable "Tester-Name" {
-    de
-}

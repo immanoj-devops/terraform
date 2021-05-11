@@ -1,2 +1,0 @@
-
-CITY = "Dev-Bangalore"
